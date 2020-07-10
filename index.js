@@ -17,7 +17,7 @@ function currentLine(currentLineofPeople){
   return `The line is currently empty.`
 }
 for (let i=0;i<currentLineofPeople.length;i++){
-  console.log( `The line is currently: ${i+1}. ${currentLineofPeople[i]},`)
+   `The line is currently: ${i+1}. ${currentLineofPeople[i]},`
 
 }
 }
