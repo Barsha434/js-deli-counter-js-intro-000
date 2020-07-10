@@ -21,4 +21,3 @@ for (let i=0;i<currentLineofPeople.length;i++){
   nameandNumber.push(`${i+1}. ${currentLineofPeople[i]}`)
 }
 return `The line is currently: ${nameandNumber.join(",")}
-
