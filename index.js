@@ -17,7 +17,7 @@ function currentLine(currentLineofPeople){
   return `The line is currently empty.`
 }
 for (let i=0;i<currentLineofPeople.length;i++){
-  return `The line is currently: ${i+1}. ${currentLineofPeople[i],${i+2}. ${currentLineofPeople[i]}`
+  return `The line is currently: ${i+1}. ${currentLineofPeople[i], ${i+2}. ${currentLineofPeople[i]}`
 
 }
 }
